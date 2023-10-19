@@ -1,4 +1,12 @@
-# A mid-closure to the digital ocean problem
+---
+layout: post
+title:  A mid-closure to the digital ocean problem
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 
 After trying many hosts, I say to myself: OK, I give in.
 

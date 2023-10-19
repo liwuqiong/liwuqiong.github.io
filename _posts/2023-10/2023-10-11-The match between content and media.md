@@ -1,4 +1,12 @@
-# The match between content and media
+---
+layout: post
+title:  The match between content and media
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 
 When you are posting something to attract traffic, you have to keep in mind the match between your post and the media.
 

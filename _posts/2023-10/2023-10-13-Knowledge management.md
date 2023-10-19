@@ -1,4 +1,12 @@
-# Knowledge management
+---
+layout: post
+title:  Knowledge management
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 
 Too much effort on importing such as reading books(essays, threads), listening podcasts, watching films etc., is imbalance.
 

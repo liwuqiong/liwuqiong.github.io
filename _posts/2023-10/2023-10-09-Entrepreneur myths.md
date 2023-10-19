@@ -1,5 +1,12 @@
-# Entrepreneur myths
-
+---
+layout: post
+title:  Entrepreneur myths
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 Reading the book "Entrepreneur myths"  these day, of which the facts and advices about entre are fucking so good.
 
 The author, Damir Perge, has funded more than 50million dollars to startups as an angel, and concluded 50 myths to destroy people's illusion about what entrepreneur should be like.

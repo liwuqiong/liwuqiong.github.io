@@ -1,4 +1,12 @@
-# The first day of October
+---
+layout: post
+title: The first day of October
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 
 10/1, the first day of october, less than 100 days of this year.
 
