@@ -2,8 +2,7 @@
 layout: page
 title: A detailed journey
 description: Daily record and sharing of Li Wuqiong's work, study and life 
-permalink: /Daily/
-
+permalink: /daily/
 ---
 
 Daily record and sharing of my work, study and life. Let's see how far I could walk towards my goal of becoming an entrepreneur, developer, writer and researcher.
