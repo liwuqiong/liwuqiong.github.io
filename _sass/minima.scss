@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
-$base-font-family: "Vollkorn", serif !default; //这里控制全局字体，在_base文件中被引用；也可以直接在base文件中写font-family来配置全局字体
+$base-font-family: 'Times New Roman', Times, serif !default; //这里控制全局字体，在_base文件中被引用；也可以直接在base文件中写font-family来配置全局字体
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;

@@ -13,7 +13,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
-  font-family: "Vollkorn", serif; //这里是新加的，因为正文的字体已改为open sans, 为了区隔，网站标题的字体单独设置
+  // font-family: "Vollkorn", serif; //这里是新加的，因为正文的字体已改为open sans, 为了区隔，网站标题的字体单独设置
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
