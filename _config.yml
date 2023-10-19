@@ -1,80 +1,62 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Li Wuqiong
-email: liwuqiong@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A collection of notes, projects, and essays.
-timezone: Asia/China
-# Link settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://liwuqiong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site: Li Wuqiong
+url: liwuqiong.com
+title: liwuqiong
+description: thoughts
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
 permalink: pretty
 
-# Social settings
-# social_sites:
-  # github: liwuqiong
-  # twitter: liwuqiongruc
-  # mastodon:
-  #   server: fosstodon.org
-  #   username: ljvmiranda
+baseurl: ""
 
-rss: rss
+highlighter: none
 
-# Build settings
-markdown: kramdown
-theme: minima
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap
-# Kramdown settings
-kramdown:
-  input: GFM
-  parse_block_html: true
+  - jekyll-sitemap  
 
-# Highlighter settings
-highlighter: rouge
-
-# Disqus
-# disqus:
-#  shortname: ljvmiranda921-github-io-1
-
-# Google analytics
-google_analytics: UA-106021948-1
-
-# Publish future
-future: false
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-#  - about.html
-#- /cv/index.md
-#- /notebook/index.md
-#- /projects/index.md
-
-# Include this line so that travis will not explode
-exclude: [vendor]
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
