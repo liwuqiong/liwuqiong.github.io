@@ -1,0 +1,12 @@
+.firstcharacter {
+  color: #156a40;
+  float: left;
+  font-family: Georgia;
+  font-size: 70px;
+  line-height: 40px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+/* 首字下沉的格式，在这里修改 */
