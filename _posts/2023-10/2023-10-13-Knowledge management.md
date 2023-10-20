@@ -7,7 +7,6 @@ comments: false
 tags: 
 category: daily
 ---
-
 Too much effort on importing such as reading books(essays, threads), listening podcasts, watching films etc., is imbalance.
 
 After a period you would doubt yourself if the effort is worth it because the result of it seems vague. Much of your effort runs off, and you may quit.

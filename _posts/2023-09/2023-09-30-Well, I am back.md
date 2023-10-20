@@ -1,3 +1,13 @@
+---
+layout: post
+title:  Knowledge management
+date: 2023-09-30 22:16:52
+description: 
+summary: 
+comments: false
+tags: 
+category: daily
+---
 # Well, I am back
 
 Sorry about the 10 day's break. One of the reasons is that I get frustrated about Digital Ocean host. The website can't be opened frequently because of high cpu usage. Having tried so many methods and spent much time, my patience is exhausted. Maybe the only way is to pay more money to upgrade to a more premium plan.
@@ -19,3 +29,4 @@ For a just-one-month old website with less than 5 view per day, caring about the
 When the affair happens again, just let it go. Don't give it a shit.
 
 Focus on the important part: don't stop writing. If the online ghost doesn't work, just write it on twitter, mac note, or whatever place.
+
