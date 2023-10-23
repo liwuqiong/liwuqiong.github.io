@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Setting up a brand new blog: a final closure"
-description: 
+title: "Setting up a brand new blog with jekyll: a final closure"
+description: Setting up a brand new blog with jekyll. Start a new journey from now on.
 summary: 
 category: daily
 tags: [blogging, jekyll, writing]
@@ -34,4 +34,3 @@ Now I would like to say, OK, let's stop here.
 I should move on to the next step. 
 
 A new start of my journey to become a writer(content creator) and developer.
-

@@ -3,7 +3,6 @@ layout: post
 title:  玩不转的小红书
 description: 
 summary: 
-comments: false
 tags: [chinese]
 category: daily
 ---
@@ -21,10 +20,30 @@ category: daily
 于是也迅速转变了策略：
 
 - 短平快，不花过多时间，不写长文，不做精雕细琢；
-
 - 主打真实性基础上的随意性，内容相对随意，形式随意；
 - 内容：结构性；
 
 另外，我觉得还是认认真真系统性地快速学习一门相关课程为好。
+    
+    sdfa 
+    sdfa
+        sdfa
+
+> sadfa sd
+
+> dfaw222sdfadsf 
+
+```sql
+select sss from sdfa
+```
 
 不要气馁，加油。
+
+
+```shell
+gem source -l # 查看所使用的源
+
+# 添加新源，删掉旧源
+gem source --add https://gems.ruby-china.com --remove https://rubygems.org
+
+```
