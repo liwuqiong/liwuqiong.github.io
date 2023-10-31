@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a draft plan for my indie hacker journey
+title: A draft plan for my indie hacker journey
 description: 
 summary: 
 category: daily 
