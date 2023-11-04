@@ -12,4 +12,4 @@ Alchohol, Game, and sleeping late, they always come together.
 
 I have to beat them one by one.
 
-If not erase it, neglect it at least.
+If not erase it, neglect it at least. 
