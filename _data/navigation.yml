@@ -1,8 +1,8 @@
 links:
 - title: Daily
   url: /
-# - title: Reading
-#   url: /Reading
+- title: Projects
+  url: /projects
 - title: About
   url: /about
 - title: Search

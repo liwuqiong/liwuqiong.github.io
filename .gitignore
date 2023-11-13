@@ -8,6 +8,7 @@
 .ruby-gemset
 .ruby-version
 .sass-cache
+.obsidian
 /vendor
 Gemfile.lock
 _site
