@@ -7,11 +7,11 @@
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
-	font-size: 1rem;
+	font-size: 1.18rem;
 	color: rgb(22, 23, 26);
 }
 
@@ -20,9 +20,9 @@ nav ul {
 }
 
 a {
-    color: #000;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
+	color: #d51515;
 }
 
 pre {
@@ -81,6 +81,7 @@ header {
 
 header a {
 	text-decoration: none;
+	color: #d51515;
 }
 
 header li {
@@ -180,6 +181,7 @@ header ul {
 }
 nav ul {
     border-right: 0px;
+	color: rgb(20, 60, 193)
 }
 
 .photos ul {

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
-tags: []
+title: Start Chinese Blog
+tags: [planning, blogging, focus, chinese]
 ---
 
 I decide to step forward on my content creation(i.e. project A3).
 
-No more planning from the top. Just start from the ground. 
+No more planning from the top. Just start [from the ground](http://baidu.com). 
 
 Daily blog is the very start. I document my progress and thoughts in detail. And it's on the domain liwuqiong.com.
 
