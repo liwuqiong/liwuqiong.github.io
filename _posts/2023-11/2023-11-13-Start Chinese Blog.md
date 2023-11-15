@@ -22,5 +22,4 @@ To be a bilingual writer, I keep learning and using English, hoping to enhance i
 
 And Chinese site is to start. 
 
-It's on the sub-domain liwuqiong.com/zh. Maybe temporarily.
-
+It's on the [sub-domain](https://liwuqiong.com/blog_zh). Maybe temporarily.
