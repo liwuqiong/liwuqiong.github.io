@@ -3,20 +3,34 @@ url: liwuqiong.com
 title: Li Wuqiong
 description:
 twitter:
-  username: #yourusername
+  username: #rucliwuqiong
   card: summary
-  creator: #yourusername
+  creator: #liwuqiong
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: #liwuqiong
+  name: #liwuqiong
   avatar:
-  email: #youremail
+  email: #liwuqiong@hotmail.com
   url: #yoururl
 permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 exclude:
   - .jekyll-cache

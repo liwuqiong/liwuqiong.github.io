@@ -84,6 +84,9 @@ header a {
 	color: #d51515;
 }
 
+// 对于标题链接，鼠标悬停显示下划线
+header a:hover{text-decoration: underline;}
+
 header li {
 	margin-bottom: .2rem;
 	text-align: right;
