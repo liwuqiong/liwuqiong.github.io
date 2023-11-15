@@ -53,7 +53,7 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /:year/:month/:day/:slug
   
 defaults:
