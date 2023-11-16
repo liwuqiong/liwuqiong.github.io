@@ -12,7 +12,7 @@ author:
   avatar:
   email: #liwuqiong@hotmail.com
   url: #yoururl
-permalink: pretty
+permalink: /:title
 
 baseurl: ""
 
