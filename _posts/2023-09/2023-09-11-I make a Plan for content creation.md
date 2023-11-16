@@ -4,7 +4,7 @@ Eat too much at lunch. So I go downstairs for a walk.
 
 And I organize the thoughts these days about my writing project, i.e. creating content constantly and part of it would grow up to a business.
 
-### #1_documenting myself daily
+## 1_documenting myself daily
 
 Daily blog about my working progress, as well as stories on learning and life. Freely and constantly. Just like what I do here, it helps to organize my thoughts.
 
@@ -15,7 +15,7 @@ Daily blog about my working progress, as well as stories on learning and life. F
 
 *Randomly. Non business.*
 
-### #2_My personal thoughts expression
+## 2_My personal thoughts expression
 
 Essay about specific topics, review on some books/movies, or any other kind of article with a complete structure.
 
@@ -24,7 +24,7 @@ Essay about specific topics, review on some books/movies, or any other kind of a
 
 *Randomly. Non business.*
 
-### #3_Information and knowledge sharing
+## 3_Information and knowledge sharing
 
 To stay in touch with the world, I collect and absorb information(mainly on data and tech area) nearly everyday. It may be a good idea to share my digestion and professional comments with those in need.
 
@@ -34,7 +34,7 @@ To stay in touch with the world, I collect and absorb information(mainly on data
 
 *Designed. Maybe a media in the future, if successful.*
 
-### #4_notes on financial freedom
+## 4_notes on financial freedom
 
 I am careless and indifferent on money things. Partly because of my character or mindset, and partly because of my job has always paid me well.
 

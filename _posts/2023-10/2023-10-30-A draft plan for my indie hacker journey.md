@@ -4,7 +4,7 @@ title: A draft plan for my indie hacker journey
 description: 
 summary: 
 category: daily 
-tags: [planning, programming, indie hacker]
+tags: [planning, programming, indie_hacker]
 ---
 First of all, I must get the basic programming skills that enable me to make an MVP. The stack includes python for backend, javascript, html, css for front end, and some basics on web development and database.
 

@@ -4,7 +4,7 @@ title: Arrangement
 description: 
 summary: 
 category: daily
-tags: [indie hacker, planning]
+tags: [indie_hacker, planning]
 ---
 Project A1 is my main project.  
 

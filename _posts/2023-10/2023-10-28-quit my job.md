@@ -4,7 +4,7 @@ title: Quit my job
 description: A new journey begins. Fearlessly.
 summary: 
 category: daily
-tags: [job, indie hacker, life, entrepeur, scholar, writer]
+tags: [job, indie_hacker, life, entrepeur, scholar, writer]
 ---
 > A new journey begins. Fearlessly.
 
