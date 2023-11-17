@@ -158,7 +158,14 @@ strong, b {
 }
 
 .post ul, .project ul, .post ol  {
-	//list-style-position: inside;
+	list-style-position: outside;
+
+	// 下面几项是查了gpt后自己添加的，原模板没有，导致列表项没有缩进，且上下没有形成段落间距，不太美观。
+	margin-left: 40px;
+	margin-bottom: .5rem;
+	margin-top: .5rem;
+	// text-indent: 5px;
+	// padding-left: 10px;
 }
 
 main {
