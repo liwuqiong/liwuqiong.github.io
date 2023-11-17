@@ -1,5 +1,5 @@
 ---
-title: 2023-11-16-Start to build habits of healthy life
+title: Start to build habits of healthy life
 tags:
   - tag1
 date: 2023-11-16
