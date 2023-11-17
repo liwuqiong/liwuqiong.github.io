@@ -1,3 +1,13 @@
+---
+title: 2023-11-16-Start to build habits of healthy life
+tags:
+  - tag1
+date: 2023-11-16
+layout: post
+description: 
+summary:
+---
+
 I quit my job last month not only to start my own projects as a new entrepreneur journey, but also to build new habits to lead a healthy life. 
 
 A healthy lifestyle is actually what I need at the foremost above all things. Yes, I say "above all things", meaning that more important than conducting projects. 
