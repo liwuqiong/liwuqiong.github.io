@@ -4,7 +4,7 @@ title: "Work procastination: the tedious part"
 description: Don't procastinate anything you should do, including what you don't want to do.
 summary: 
 category: daily
-tags: [work, descipline]
+tags: [work, discipline]
 ---
 > Don't procastinate anything you should do, including what you don't want to do.
 

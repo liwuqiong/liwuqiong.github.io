@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another day of blog decorating and debugging
-tags: [blogging, descipline]
+tags: [blogging, discipline]
 ---
 
 After I wrote "settled" last day, which was supposed to make a closure to the new Chinese blog configuring thing, I continue doing that for a whole day. 

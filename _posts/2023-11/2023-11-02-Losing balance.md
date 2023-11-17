@@ -4,7 +4,7 @@ title: Losing balance
 description: 
 summary: 
 category: daily 
-tags: [descipline, programming, python, learning]
+tags: [discipline, programming, python, learning]
 ---
 Learning programming python the whole day, covering the topic about functions, modules and http requests. I don't think it's productive. I could have done more, including some works on A1 and A3 project. 
 

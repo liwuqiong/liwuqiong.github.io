@@ -4,7 +4,7 @@ title: "Back into control"
 description: After days of indulging into tons of useless stuffs, I am aware of that things should be back into control.
 summary: 
 category: daily
-tags: [blogging, production, writing, descipline, planning]
+tags: [blogging, productivity, writing, discipline, planning]
 ---
 
 Things seem to be out of control the other days. I have thrown too much time into unimportant things. Enerny exhausted, but low productive.

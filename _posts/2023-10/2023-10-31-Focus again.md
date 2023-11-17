@@ -4,7 +4,7 @@ title: Focus again
 description: 
 summary: 
 category: daily 
-tags: [descipline]
+tags: [discipline]
 ---
 It seems that time and energy is never enough for the to-do list. It's used up so soon that can be hardly aware of. And the worse part is figuring out what has been done is not so much compared to the amount of time and energy spent. Fuck!
 
