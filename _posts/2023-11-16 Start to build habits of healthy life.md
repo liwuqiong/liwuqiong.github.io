@@ -1,7 +1,8 @@
 ---
 title: Start to build habits of healthy life
 tags:
-  - tag1
+  - discipline
+  - 
 date: 2023-11-16
 layout: post
 description: 
