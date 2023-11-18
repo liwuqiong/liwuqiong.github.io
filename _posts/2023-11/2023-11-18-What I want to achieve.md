@@ -1,3 +1,13 @@
+---
+title: What I want to achieve
+tags:
+  - planning
+  - tag2
+date: 2023-11-18
+layout: post
+description: 
+summary:
+---
 
 In one's whole life, there may not be many things worth doing with full heart. In fact, having done only one work well is by no means a waste of life. 
 
@@ -7,6 +17,6 @@ For me, there are several things with achievements that I commit myself to do.
 
 1. Launch a business with cool products. The business thrives well that helps the economy boom and myself escape from the constraints of money.
 2. Write multiple essays and several books. I want to communicate my story and thoughts to the worlds with an elegant usage of words.
-3. Conduct research to come up with theories. I hope to find the fact and give it a better explanation, and throw what I've found into real world. 
+3. Conduct research to come up with useful theories. I hope to find the fact and give it a better explanation, and throw what I've found into real world. 
 
 These are what I want to achieve. When I'm near dying, I wish I could have done them, no matter how well or badly.
