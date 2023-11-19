@@ -2,7 +2,6 @@
 title: What I want to achieve
 tags:
   - planning
-  - tag2
 date: 2023-11-18
 layout: post
 description: 

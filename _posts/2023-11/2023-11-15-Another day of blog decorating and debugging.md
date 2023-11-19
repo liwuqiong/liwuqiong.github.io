@@ -12,7 +12,7 @@ I'm happy with this confirmation. It erases the fear and doubt about being an in
 
 So I spare another day to make the blog much more fulfill my appetite, hoping it can be a place for long term writing. 
 
-Here it is: https://liwuqiong.com/blog_zh, listed as the first [project](../_pages/projects.md_) in the content creation area. 
+Here it is: [https://liwuqiong.com/blog_zh](https://liwuqiong.com/blog_zh), listed as the first [project](../projects) in the content creation area. 
 
 And I told myself: just this one last time. No more addicted to playing these tools staff. Get rid of shiny object syndrome. 
 

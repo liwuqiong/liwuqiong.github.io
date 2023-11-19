@@ -29,10 +29,11 @@ It's a typical example of doing the hard but right thing. And I put it in the No
 Here is the list: 
 - **Sleeping**: Sleep early and regularly to ensure 8 hours(7 hours better at least) sleep. Learn to sleep well and rest well is the most urgent and the most important issue I'm facing. 
 - **Sport**: Start exercise regularly to keep energetic and fit. One specific is to lost weight about 5 kg. 
-- **Appearance**: Pay more and serious attention to body caring and clothing decoration. Stopping too slovenly. A nice appearance is good for confidence and mental status. And it's also a clear message transmitted outwardly about one's attitude to life. 
+- **Appearance**: Pay more and serious attention to body caring and clothing decoration. Stop being too slovenly. A nice appearance is helpful for self-confidence and good mental status. And it's also a clear message transmitted outwardly about one's attitude to life. 
 - **Tiny habits**: 
-	- **Don't sit too long**: stand up and take a walk every 40-60 minutes while doing desk work.
-	- **On diet**: eat less with no heavy and spicy food. Drink less. Resist the temptation indulging myself. 
+	- **Don't sit too long**: Stand up and take a walk every 40-60 minutes while doing desk work.
+	- **On diet**: Eat less with no heavy and spicy food. Drink less. Resist the temptation indulging myself. 
+	- **Walk after dinner**: Take a small walk after dinner to help digestion and mind clarification.
 
 The brand new habits don't need much time to take. Instead, they need awareness and persistence. Be alert enough at every tiny daily fork and make the right choice. Things get better based on these many small choices one by one. 
 
