@@ -23,6 +23,7 @@ As to the left unsolved small problems or bugs, just leave them alone and let th
 - add reading count number to posts and pages;
 - make the website open faster;
 - make the mini about me module shown on mobile phone;
-- filter myself's visit out from Google Analytics data
+- filter myself's visit out from Google Analytics data;
+- add a feature of counting the whole numbers of published posts;
 
 Go back to do the content creating work. 
