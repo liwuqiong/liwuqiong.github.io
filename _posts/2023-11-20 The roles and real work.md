@@ -38,4 +38,3 @@ It's a sub-role of \#1 Entrepreneur as being a solo developer. So it covers all 
 **Some basic work
 - Learn to know more about what you do(industry, product, benchmark, customer, yourself) by investigating, reading, talking, experiencing and retrospecting.
 - Healthy lifestyle and habits to maintain peaceful mind and energetic status.
-- 
