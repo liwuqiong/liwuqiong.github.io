@@ -1,3 +1,11 @@
+---
+title: Start second project in content creation
+tags: [blogging, planning]
+date: 2023-11-23
+layout: post
+description: 
+summary:
+---
 
 When I joined my A1 project as co-founder, I come up with a company domain name called Socradata.com, which stems from the combination of Socrates and Data implying the asking intelligence of the product. The proposal is not adopted in the end. 
 

@@ -1,1 +1,0 @@
-I wrote a post humble several days ago. 
