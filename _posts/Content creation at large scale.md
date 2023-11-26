@@ -4,3 +4,5 @@ I want to find a way to create content at large scale. This way might be more of
 
 The way is serious or vertical writing. I think it might work so I would like to test it.
 
+Serious/Vertical Writing list:
+- 
