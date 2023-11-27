@@ -5,4 +5,13 @@ I want to find a way to create content at large scale. This way might be more of
 The way is serious or vertical writing. I think it might work so I would like to test it.
 
 Serious/Vertical Writing list:
-- 
+- Reading comment
+- Movie comment
+- Business comment
+- GPT knowledge basics
+- Python programming basics
+- History 
+- Thoughts
+- Data tech and Martech knowledge basics
+
+I would like to produce content in batch according to the list above. 
