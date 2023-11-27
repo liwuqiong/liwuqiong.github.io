@@ -13,5 +13,6 @@ Serious/Vertical Writing list:
 - History 
 - Thoughts
 - Data tech and Martech knowledge basics
+- Summarize the podcast that I have listened 
 
 I would like to produce content in batch according to the list above. 
