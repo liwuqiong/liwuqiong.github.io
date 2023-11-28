@@ -17,5 +17,7 @@ Second, these articles would be revised and exported to several publishing sites
 - zhihu.com
 - wechat public account
 - toutiaohao
+- weibo
+- twtitter
 
 Publishing online is quite different from writing just on my own. I should take what the audiences like into consideration, and also learn the platforms' traffic mechanism. 
