@@ -15,11 +15,12 @@ Serious/Vertical Writing list:
 - Reading comment
 - Movie comment
 - Business comment
-- GPT knowledge basics
+- GPT/AI knowledge basics
 - Python programming basics
 - History 
 - Thoughts
 - Data tech and Martech knowledge basics
-- Summarize the podcast that I have listened 
+- Summarize the podcast that I have listened
+- News
 
 I would like to produce content in batch according to the list above. 
