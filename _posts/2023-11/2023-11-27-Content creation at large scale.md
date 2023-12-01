@@ -17,10 +17,17 @@ Serious/Vertical Writing list:
 - Business comment
 - GPT/AI knowledge basics
 - Python programming basics
-- History 
+- History comment
 - Thoughts
+- Story
 - Data tech and Martech knowledge basics
 - Summarize the podcast that I have listened
-- News
+- News comment
+- Work progress
+- Look ahead about future
+- Places and scene
+- Thoughts about growth
+- What I learnt
+- Anything I want to say or share
 
 I would like to produce content in batch according to the list above. 
