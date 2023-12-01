@@ -28,6 +28,7 @@ Serious/Vertical Writing list:
 - Places and scene
 - Thoughts about growth
 - What I learnt
+- Past experience 
 - Anything I want to say or share
 
 I would like to produce content in batch according to the list above. 
