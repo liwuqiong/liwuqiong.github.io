@@ -37,7 +37,7 @@ Here is the list:
 
 The brand new habits don't need much time to take. Instead, they need awareness and persistence. Be alert enough at every tiny daily fork and make the right choice. Things get better based on these many small choices one by one. 
 
-But the hardest part is the shift of mindset: I don't really take the habits above seriously, although admit their importance every time speaking of them and have tried so many times to build them. 
+But the hardest part is **the shift of mindset**: I don't really take the habits above seriously, although admit their importance every time speaking of them and have tried so many times to build them. 
 
 It's another typical example of gap between thought and action. The main reason is that I have never set the right mindset to put those habits in the No.1 place. 
 
