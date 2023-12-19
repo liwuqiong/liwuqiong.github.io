@@ -19,5 +19,10 @@ Next, the planning would be like the to do list below:
 	- the importance of good sleeping: ensure at least 7 hours' sleep by sleep before 23:30, to keep basic energy.
 	- knowledge management task daily: import, read, sort, export, share. 
 - **Keep simple**: No more fragmented information. Just import content from a few high-quality sources. 
-- **Focus**: Always keep in mind what's the most important thing to do right now by doing small planning and adjusting in real time. 
+- **Focus**: 
+	- Always keep in mind what's the most important thing to do right now by doing small planning and adjusting in real time. 
+	- And list the to-dos in the near time:
+		- A1: product design;
+		- A2: learn python;
+		- A3: Keep pace of writing by writing at least 3 articles one week for blog_zh and socrodata.com and sharing as daily routine. 
 
