@@ -1,3 +1,11 @@
+---
+title: Start to write book comment
+tags: 
+date: 2023-12-20
+layout: post
+description: 
+summary:
+---
 
 In the post [Content creation at large scale
 ](https://liwuqiong.com/2023/11/27/content-creation-at-large-scale), I've listed several lists to boost the volume of writing. Now I decided to start the list: Book Reading Comment. 
