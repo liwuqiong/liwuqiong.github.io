@@ -21,13 +21,9 @@ First, I am going to write dozens of articles in selected [serious](https://liwu
 	- Python learning notes: 20 articles;
 
 Second, these articles would be revised and exported to several publishing sites:
-- Daily routine(Writing&sharing):  
-	- xiaohongshu app: focus on growth and thoughts
-	- zhihu.com: focus on growth
-	- twitter: focus on working progress 
-	- weibo: focus on thoughts
-	- toutiaohao: focus on news and knowledge
-- Articles: 
+- Writing&Sharing as daily routine task: 
+	- to Social: xiaohongshu; zhihu.com; knowledge planet; twitter; weibo; toutiaohao; WeChat; 
+- Refine&Publish:  
 	- WeChat public account
 
 Publishing online is quite different from writing just on my own. I should take what the audiences like into consideration, and also learn the platforms' traffic mechanism. 
