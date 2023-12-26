@@ -1,3 +1,12 @@
+---
+title: Have respect for sleep
+tags: 
+date: 2023-12-25
+layout: post
+description: 
+summary:
+---
+
 
 I should and must have respect for sleep, just like John Nash's having respect for beer in Princeton's library. 
 
