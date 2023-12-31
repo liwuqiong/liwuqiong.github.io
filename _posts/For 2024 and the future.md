@@ -25,4 +25,5 @@ Some specific check:
 - Write and publish 100 articles in high quality
 - Offer from dream school/projects
 - Healthy and energetic: Sleep early, lose 5 kg, good appearance. 
+- Find new tutor and platform in industry&academy and maintain relationship
 
