@@ -13,4 +13,4 @@ In my whole life it's the very first time that I start to both consider thorough
 
 I've experienced various kinds of people and things. It's foolish to be timid or degrade myself. I have the full confidence for my work.
 
-No more scrap. Look ahead.
+No crap. Look ahead.
