@@ -1,3 +1,12 @@
+---
+title: For 2024 and the future
+tags: 
+date: 2024-12-31
+layout: post
+description: 
+summary:
+---
+
 It's 7-8 o'clock in the morning. The warm winter sunlight sheds in the window. I'm quite peaceful and hopeful.
 
 No crap. The goals for 2024 and the future:
