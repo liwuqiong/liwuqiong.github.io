@@ -1,7 +1,7 @@
 ---
 title: For 2024 and the future
 tags: 
-date: 2024-12-31
+date: 2023-12-31
 layout: post
 description: 
 summary:
