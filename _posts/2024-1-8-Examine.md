@@ -1,3 +1,12 @@
+---
+title: Examine
+tags: 
+date: 2024-01-08
+layout: post
+description: 
+summary:
+---
+
 
 The coding work of the product's version 0.8 is near finished. And I start to examine and check the work the whole day. 
 
