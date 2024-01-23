@@ -7,10 +7,9 @@ description:
 summary:
 ---
 
-
 Time is such a thing that if you don't care about it with your heart you'll soon find out that you're dumped without any goodbye. 
 
-"To make each day count", is a hard but worthwhile lifestyle to be practiced. 
+"To make each day count" is a hard but worthwhile lifestyle to be practiced. 
 
 This is why I persist on this daily blog, even if no one else sees it or my awkward writing English. 
 
