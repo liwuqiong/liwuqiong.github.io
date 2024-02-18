@@ -1,7 +1,7 @@
 ---
 title: Laptop water inflow
 tags: 
-date: 2024-1-25
+date: 2024-01-25
 layout: post
 description: 
 summary:
