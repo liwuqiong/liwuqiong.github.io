@@ -9,7 +9,7 @@ summary:
 
 It's near Chinese Spring Festival which is at 2-9. 
 
-Today I drive home from Beijing to Zhengzhou, a provincial capital in the middle of China. 
+Today I drive home from Beijing to Zhengzhou, a provincial capital（Henan province) in the middle of China. 
 
 I haven't been home for celebrating Spring Festival for 4 years since the pandemic of Covid-19. The Chinese government did't allow or advocate people go home for fear of virus spreading due to large population movement. 
 

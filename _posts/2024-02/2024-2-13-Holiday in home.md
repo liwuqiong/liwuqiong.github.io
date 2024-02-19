@@ -13,4 +13,4 @@ There are always too many people in tourist attractions when in holiday in China
 
 I like these days with my family, but the part I don't like is that the life in home is too comfortable and warm. I have no willingness to do anything except playing for fun. 
 
-A delimma.
+A delima.
