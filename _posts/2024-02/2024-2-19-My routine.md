@@ -1,7 +1,7 @@
 ---
 title: My routine
 tags: 
-date: 2024-02-20
+date: 2024-02-19
 layout: post
 description: 
 summary:
