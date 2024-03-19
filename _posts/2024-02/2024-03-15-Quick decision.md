@@ -13,4 +13,4 @@ Then I know that there is an important capability for self-managers and entrepre
 
 Don't worry too much. Things are getting better in this way instead of a perfect planning and a thorough, deliberate decision ahead.
 
-Don't spend too much time on trival things.
+Don't spend too much time on trivial things.
