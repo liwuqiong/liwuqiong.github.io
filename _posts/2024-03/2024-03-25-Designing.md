@@ -1,5 +1,5 @@
 ---
-title: 2024-03-25-Designing
+title: Designing
 tags: 
 date: 2024-03-25
 layout: post
