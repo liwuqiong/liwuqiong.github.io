@@ -15,4 +15,4 @@ But now, I would fight back each time.
 
 It's an renewal attitude: there should be no one order anything like a boss to me. 
 
-I am my own boss.
+I am my own boss... and God.
