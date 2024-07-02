@@ -1,5 +1,5 @@
 ---
-title: fucos topics
+title: Focus topics
 tags: 
 date: 2024-06-29
 layout: post
