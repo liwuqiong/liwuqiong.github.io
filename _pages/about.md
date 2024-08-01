@@ -3,26 +3,18 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Hi, I'm Rick.  
 
-### Features
+I am an on-the-way entreprenuer trying to make something useful for the industry.
+I also love creating things so as to be a writer and an indie hacker. 
+On the whole, I haven't made any brilliant achievements till now. Just some regular success with much failure that are not worth mentioning.
+Beacuse I wasted lots of time and opportunites in the past.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+I decided to work on myself to make a complete change. 
+It's a hard but the right way.
 
-### Screenshot
+This daily blog carries what I see and think during the journey.
 
-![Screenshot](screenshot.png)
+Maybe a different and interesting one.
+
+My e-mail: liwuqiong@hotmail.com
