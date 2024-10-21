@@ -1,0 +1,16 @@
+---
+title: Right way.
+tags: 
+date: 2024-10-21
+layout: post
+description: 
+summary:
+---
+
+It's painful to see that no much things had been done or no much progress had been made if you look back to the past time, especially if you knew why it was being so. 
+
+For me, I still hadn't defeated the monster inside of myself. It continued to destroy myself by wasting bulk of time. Sleeping late, procrastinating what really needed to do, playing computer games... were bad habits that still existed. 
+
+I will fight for my truly freedom and inner peace from now on. Writing is a weapon. I will continue writing about my progress and thoughts on indie hacker and related staff in this place. 
+
+It's a shame to be weak and defeated if you have already known and experienced what is the RIGHT way. 
