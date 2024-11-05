@@ -1,0 +1,28 @@
+- title: Home
+  url: /
+  external: false
+
+- title: Archive
+  url: /archive/
+  external: false
+
+- title: Tags
+  url: /tags/
+  external: false # set true if you using external link, see below
+
+- title: About
+  url: /about/
+  external: false # set true if you using external link, see below
+
+- title: 中文
+  url: /blog_zh/archive
+
+# - title: 快语
+#   url: /kuaiyu/
+#   external: false
+
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
