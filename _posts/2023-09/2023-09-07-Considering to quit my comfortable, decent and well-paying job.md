@@ -3,10 +3,10 @@ layout: post
 title: Considering to quit my comfortable, decent and well-paying job
 description: 
 summary: 
-tags: [typography]
+tags: 
 ---
 
-# Considering to quit my comfortable, decent and well-paying job
+Considering to quit my comfortable, decent and well-paying job
 
 I have to admit the truth that my job is quite comfortable: working intensity and load is low, high profile, high degree of freedom, and payment is impressive.
 
@@ -14,7 +14,7 @@ A typical day: driving to workplace and parking on my space. Go upstairs at abou
 
 Almost forgot to mention, generally there are have about 2 hours for lunch and break. I often go to my car to take a nap.
 
-**But I am still considering a quit, repeatedly, in this half year.**
+But I am still considering a quit, repeatedly, in this half year.
 
 It seems that I am an idiot, especially in such a time when china's economy goes down rapidly, the atmosphere lacking of confidence.
 

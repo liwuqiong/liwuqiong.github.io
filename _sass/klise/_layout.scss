@@ -237,7 +237,7 @@
   }
 
   .post-item-date {
-    min-width: 96px;
+    min-width: 120px;
     color: $black;
     font-weight: 700;
     padding-right: 10px;
@@ -245,6 +245,7 @@
     @include media-query($on-mobile) {
       font-size: 16px;
     }
+    
   }
 
   .post-item-title {
