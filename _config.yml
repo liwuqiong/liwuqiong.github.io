@@ -24,7 +24,7 @@ author:
 # URL settings
 url: "https://liwuqiong.com" #
 baseurl: 
-permalink: /:title/
+permalink: /:year/:month/:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
