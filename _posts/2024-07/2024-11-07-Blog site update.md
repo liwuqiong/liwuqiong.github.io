@@ -15,3 +15,4 @@ I believe it will boost my writing and the related work from a brand new start.
 Besides, I devote my whole enthusiasm into the customization work, during which without awareness of time past by, nearly no eat, sleep, bathroom, just do the code and fix coming from my mind one by one, seemingly never bored with it. 
 
 That reassures me that I love doing coding, designing and creating staff. The indie hacker work suspended for the last few months. I can't give it up. Now it's time to restart.
+
