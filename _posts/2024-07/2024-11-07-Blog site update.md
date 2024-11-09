@@ -8,7 +8,6 @@ description:
 summary:
 ---
 
-这份2016年的研究报告来自[人大国发院](http://nads.ruc.edu.cn/zkcg/zcjb/index.htm)
 
 I have updated my blog site several days ago. It looks much cleaner and simpler. The English site and Chinese site use the same template. After so much work on customization, the appearance looks much better now. I like it.
 
