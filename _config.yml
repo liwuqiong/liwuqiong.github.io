@@ -25,7 +25,7 @@ author:
 url: "https://liwuqiong.com" #
 baseurl: 
 permalink: /:year/:month/:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "G-BEGXMFB6S1" # leave it blank if not wish
 fb_appid:
 
 # Collection setting
